@@ -1,0 +1,19 @@
+.header{
+    overflow:hidden;
+}
+
+.footer{
+    position: fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    background-color: #192037;
+    color: #ffffff;
+    padding: 1vh;
+    font-size: 2.5vh;
+}
+
+.footer-icons{
+    margin-right: 2vw;
+    float: right;
+}
